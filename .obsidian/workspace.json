@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "aed75a5949e0e399",
+        "id": "ab33f7b5d87241d9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f05716bc7a9773d",
+            "id": "50fcfcbca7916dc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,9 +150,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "a14fd32f21741316",
+  "active": "50fcfcbca7916dc0",
   "lastOpenFiles": [
-    "Untitled",
-    "Untitled.md"
+    "Untitled.md",
+    "Untitled"
   ]
 }
